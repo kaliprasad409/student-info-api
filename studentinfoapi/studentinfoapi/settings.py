@@ -25,7 +25,7 @@ SECRET_KEY = 'sfzmr3lftvm08nt*+hfmlyf&u7(!#oldg=wei4!3w6rp0z(nvr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
